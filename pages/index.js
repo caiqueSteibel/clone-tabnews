@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Do not go where the path may lead. Go instead where there is no path and leave a trail.</h1>;
+  return <h1>Sim, é só uma frase Thaís. Agora devolve meu time.</h1>;
 }
 
 export default Home;
